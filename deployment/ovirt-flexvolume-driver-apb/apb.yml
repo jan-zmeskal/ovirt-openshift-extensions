@@ -23,8 +23,7 @@ plans:
         title: Openshift Cluster Admin Password
         type: string
         display_type: password
-        required: True
-        default: developer
+        required: False
       - name: engine_url
         title: oVirt engine Address
         type: string
